@@ -1,6 +1,9 @@
 # Lessons
 Lessons
+
 http://www.itmathrepetitor.ru/zadachi-po-programmirovaniyu/
+
+https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
 
 Style Guides
 
