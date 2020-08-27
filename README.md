@@ -32,3 +32,5 @@ cmd > python -m pip install django
 cmd > django-admin startproject [project_name] . 
 
 python manage.py runserver 
+
+https://tproger.ru/translations/django-react-webapp/
