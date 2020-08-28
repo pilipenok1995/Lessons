@@ -36,3 +36,7 @@ python manage.py runserver
 https://tproger.ru/translations/django-react-webapp/
 
 https://developer.mozilla.org/ru/docs/Learn/Server-side/Django
+
+https://docs.djangoproject.com/en/3.1/topics/
+
+https://habr.com/ru/post/193260/
