@@ -31,7 +31,15 @@ cmd > python -m pip install django
 
 cmd > django-admin startproject [project_name] . 
 
-python manage.py runserver 
+python manage.py runserver
+
+DB Install
+
+pip install psycopg2
+
+python manage.py migrate
+
+python manage.py makemigrations
 
 https://tproger.ru/translations/django-react-webapp/
 
