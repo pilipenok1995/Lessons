@@ -31,6 +31,8 @@ cmd > python -m pip install django
 
 cmd > django-admin startproject [project_name] . 
 
+python manage.py startapp [name]
+
 python manage.py runserver
 
 DB Install
