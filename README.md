@@ -35,6 +35,8 @@ python manage.py startapp [name]
 
 python manage.py runserver
 
+pip freeze > requirements.txt
+
 DB Install
 
 pip install psycopg2
