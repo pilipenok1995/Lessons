@@ -5,6 +5,8 @@ http://www.itmathrepetitor.ru/zadachi-po-programmirovaniyu/
 
 https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
 
+https://tproger.ru/translations/guide-into-python-imports/
+
 OOP
 
 https://proglib.io/p/python-oop/
