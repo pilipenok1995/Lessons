@@ -5,6 +5,8 @@ http://www.itmathrepetitor.ru/zadachi-po-programmirovaniyu/
 
 https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
 
+https://tproger.ru/problems/python-3-exercises-for-beginners-geekbrains/
+
 https://tproger.ru/translations/guide-into-python-imports/
 
 https://www.brainmeasures.com/online/tests/702/python-2-x-test.aspx
