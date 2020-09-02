@@ -7,6 +7,8 @@ https://www.w3schools.com/python/exercise.asp?filename=exercise_syntax1
 
 https://tproger.ru/translations/guide-into-python-imports/
 
+https://www.brainmeasures.com/online/tests/702/python-2-x-test.aspx
+
 OOP
 
 https://proglib.io/p/python-oop/
