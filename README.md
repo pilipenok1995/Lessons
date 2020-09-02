@@ -62,3 +62,5 @@ https://docs.djangoproject.com/en/3.1/topics/
 https://habr.com/ru/post/193260/
 
 https://tproger.ru/translations/email-functionality-django/
+
+https://nitinnain.com/setting-up-and-running-django-on-windows-iis-server/
